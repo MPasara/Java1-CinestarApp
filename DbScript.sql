@@ -54,7 +54,7 @@ create table Users
 	IsAdmin bit 
 )
 
---!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!DELETE ALL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 --procedure za filmove
 create proc createMovie
